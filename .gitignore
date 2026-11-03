@@ -192,5 +192,4 @@ wandb/
 *.swp
 *.swo
 *~
-config.bat
 node_modules
